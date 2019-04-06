@@ -1,0 +1,10 @@
+C:\Users\ronei\source\repos\HelloKitty\HelloKitty\bin\Debug\HelloKitty.exe.config
+C:\Users\ronei\source\repos\HelloKitty\HelloKitty\bin\Debug\HelloKitty.exe
+C:\Users\ronei\source\repos\HelloKitty\HelloKitty\bin\Debug\HelloKitty.pdb
+C:\Users\ronei\source\repos\HelloKitty\HelloKitty\obj\Debug\HelloKitty.csprojAssemblyReference.cache
+C:\Users\ronei\source\repos\HelloKitty\HelloKitty\obj\Debug\HelloKitty.Form1.resources
+C:\Users\ronei\source\repos\HelloKitty\HelloKitty\obj\Debug\HelloKitty.Properties.Resources.resources
+C:\Users\ronei\source\repos\HelloKitty\HelloKitty\obj\Debug\HelloKitty.csproj.GenerateResource.cache
+C:\Users\ronei\source\repos\HelloKitty\HelloKitty\obj\Debug\HelloKitty.csproj.CoreCompileInputs.cache
+C:\Users\ronei\source\repos\HelloKitty\HelloKitty\obj\Debug\HelloKitty.exe
+C:\Users\ronei\source\repos\HelloKitty\HelloKitty\obj\Debug\HelloKitty.pdb
