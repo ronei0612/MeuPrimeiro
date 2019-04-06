@@ -15,7 +15,11 @@ namespace HelloKitty {
         }
 
         private void Form1_Load(object sender, EventArgs e) {
-            MessageBox.Show("asfasdf");
+            Mensagem();
+        }
+
+        void Mensagem() {
+            MessageBox.Show("ff");
         }
     }
 }
